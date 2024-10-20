@@ -1,5 +1,10 @@
+ace_tools_open==0.1.0
+apriori_python==1.0.4
+apyori==1.1.2
+efficient_apriori==2.0.5
+fpgrowth_py==1.0.0
 matplotlib==3.9.2
-numpy==2.1.1
+numpy==2.1.2
 pandas==2.2.3
 plotly==5.24.1
 scikit_learn==1.5.2
